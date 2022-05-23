@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/notes/6288de109f7982637683cb9e
+Content-Type: application/json
+
+{
+    "content": "Increíble nota broski eres una verdadera máquina"
+}

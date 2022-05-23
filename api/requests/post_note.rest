@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyODk5NDFkZGIwMzMxYTJiYjA0NmVhNiIsInVzZXJuYW1lIjoiVGhlQnJvc2tpIiwiaWF0IjoxNjUzMTg2MTI1LCJleHAiOjE2NTM3OTA5MjV9.OjWtsN6cqu23WPqfyWXbsTzK_rt0JoJgk6tmqH7SDeU
+
+{
+    "content": "Mi amorcín es la mejor"
+}
